@@ -1,3 +1,3 @@
 -💻 SOME OF THE CYBERSECURITY PROJECTS I HAVE HAD A CHANCE TO WORK ON.
 
--All source material is courtesy of Google CyberSecurity certificate
+-All source material is courtesy of Google Career certificates
